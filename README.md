@@ -19,4 +19,9 @@ I’m a Senior (kinda) studying Data Science and CAMS. I've only actually been o
 Please enjoy this picture of my dog, Chip, that looks like he accidentally opened the front camera. Still cute though...
   </p>
   
+  <p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQGp_QSMrU2TVQ/company-background_10000/0/1539895591298?e=2159024400&v=beta&t=xBqkpM-Ytc-y5sTTRvc58sMRV3YCnXzUsW0QcY7VIbs" width="35%">
+  </p>
+  <p align="center">
   If you're bored, feel free to work through my Pandemic-themed Choose Your Own Adventure: http://www.cs.wm.edu/~skrofman/
+  </p>
