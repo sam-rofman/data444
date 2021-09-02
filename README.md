@@ -8,7 +8,7 @@ Week 1 Assignments
   </p>
 <p align="center">
 Hi! My name is Samantha Rofman, but I go by Sam! My pronouns are she/her.
-I’m a Senior (kinda) studying Data Science and CAMS. I've only actually been on campus for one real semester... Outside of the classroom, I’m involved with Club Rowing, Student Assembly, Peer Advising, AidData, Student Culinary Council, and a developmental biology research lab.
+I’m a Senior (kinda) studying Data Science and CAMS. I've only actually been on campus for one real semester... Outside of the classroom, I’m involved with Club Rowing, Student Assembly, Peer Advising, AidData, Student Culinary Council, and a developmental biology research lab. I went to San Francisco this summer, and I randomly stumbled across this US Branch of ICBC, which is a Chinese state-owned bank whose activities we track at AidData!
   </p>
 
 
