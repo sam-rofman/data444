@@ -1,6 +1,7 @@
 # DATA 444
 
-Week 1 Assignments:
+Assignments:
+1. [Wk1 Informal Assignment](/wk1)
 
 ## About me
 <p align="center">
