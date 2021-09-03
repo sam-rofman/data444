@@ -1,7 +1,7 @@
 # DATA 444
 
 Assignments:
-1. [Wk1 Informal Assignment](/wk1)
+1. [Wk1 Informal Assignment](https://github.com/sam-rofman/data444/blob/dcea5c651f316f2d7cf5cef6c87d501dbd5ec4a2/wk1/)
 
 ## About me
 <p align="center">
