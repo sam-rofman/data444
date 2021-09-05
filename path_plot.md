@@ -6,7 +6,8 @@
   This plot shows 50 houses represented by the beige squares, 40 small trees represented by small green circles, and 12 large trees represented by large green circles. The spline shows a person's potential route between 7 randomly chosen houses. See code below.
   </p>
 
-`x <- 1:1000
+```{r}
+x <- 1:1000
 y <- 1:1000
 
 east <- sample(x, size = 50, replace = TRUE)
@@ -28,4 +29,6 @@ locs <- sample(50, size = 7)
 xspline(x = houses[locs, 2], y = houses[locs, 3], shape = -1, lty = 2)
 text(x = houses[locs, ]$east + 30, y = houses[locs, ]$north + 30, labels = houses[locs, ]$id)
 
-title(main="A Good Path?")`
+title(main="A Good Path?")
+
+```
