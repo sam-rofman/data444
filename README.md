@@ -1,7 +1,7 @@
 # DATA 444
 
 Assignments:
-1. [Wk1 Informal Assignment](https://github.com/sam-rofman/data444/blob/main/wk1.md#path-between-homes)
+1. [Wk1 Informal Assignment](https://sam-rofman.github.io/data444/wk1)
 
 ## About me
 <p align="center">
@@ -25,12 +25,4 @@ Please enjoy this picture of my dog, Chip, that looks like he accidentally opene
   </p>
   <p align="center">
   If you're bored, feel free to work through my Pandemic-themed Choose Your Own Adventure: http://www.cs.wm.edu/~skrofman/
-  </p>
-  
-## Path Between Homes
-<p align="center">
-  <img src="a_good_path_plot.png">
-  </p>
-  <p align="center">
-  This plot shows 50 houses represented by the beige squares, 40 small trees represented by small green circles, and 12 large trees represented by large green circles. The spline shows a person's potential route between 7 randomly chosen houses.
   </p>
