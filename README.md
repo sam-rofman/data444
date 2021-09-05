@@ -1,7 +1,7 @@
 # DATA 444
 
 Assignments:
-1. [Wk1 Informal Assignment](https://github.com/sam-rofman/data444/wk1/)
+1. [Wk1 Informal Assignment](https://github.com/sam-rofman/data444/blob/main/wk1.md#path-between-homes)
 
 ## About me
 <p align="center">
