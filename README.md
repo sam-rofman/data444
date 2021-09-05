@@ -1,9 +1,10 @@
 # DATA 444
 
-Assignments:
-1. [Wk1 Informal Assignment](https://sam-rofman.github.io/data444/wk1)
+## Assignments:
+1. [A Path Between Homes](https://sam-rofman.github.io/data444/path_plot)
+2. 
 
-## About me
+## About me, Sam!
 <p align="center">
 <img src="0A780675-416F-4631-B7B8-77A7C3ADADB3_1_105_c.jpeg" width="35%">
   </p>
