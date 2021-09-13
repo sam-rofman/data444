@@ -2,7 +2,7 @@
 
 ## Assignments:
 1. [A Path Between Homes](https://sam-rofman.github.io/data444/path_plot)
-2. 
+2. [Mapping Angola](https://sam-rofman.github.io/data444/angola_plots)
 
 ## About me, Sam!
 <p align="center">
