@@ -1,7 +1,7 @@
 # Mapping Angola
 
 <p align="center">
-<img src="angola.png" width="35%">
+<img src="angoa.png" width="35%">
  </p>
 <p align="center">
 Angola with labelled provinces
