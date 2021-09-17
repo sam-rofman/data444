@@ -16,7 +16,7 @@ The province of Bengo with its 5 labelled municipalities
   </p>
 
 <p align="center">
-<img src="ang__details.png" width="55%">
+<img src="ang_w_details.png" width="55%">
  </p>
 <p align="center">
 Angola with 3 northwestern provinces (Uíge, Cabinda & Zaire) and their associated subdivisions (municipalities)
